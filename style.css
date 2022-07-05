@@ -98,13 +98,13 @@ h3 {
   border-left: 7px solid tomato;
 }
 
-#panku {
-  display: flex;
+.panku {
+
   border-radius: 0%;
   text-align: center;
   padding: 5px 50px;
   box-shadow: 10px 10px 40px gray;
-  margin-bottom: 50px;
+
   margin-left: 5%;
   margin-right: 5%;
 }
