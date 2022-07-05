@@ -102,6 +102,7 @@ h3 {
   border-radius: 0%;
   text-align: center;
   border-left: 0px;
+  box-shadow: 10px 10px 40px gray;
 }
 
 footer {
