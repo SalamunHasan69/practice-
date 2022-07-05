@@ -65,7 +65,7 @@ h3 {
 .second {
   background-image: url(images/shapes/Group\ 8450.png);
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: center;
 }
 
 #majhe {
@@ -80,4 +80,45 @@ h3 {
   width: 0% auto;
   margin-left: 10%;
   margin-right: 10%;
+}
+
+.modify {
+  margin-top: 0px;
+  padding: 0%;
+}
+
+.title {
+  box-shadow: 10px 10px 40px gray;
+  width: 0% auto;
+  height: 0% auto;
+  margin-left: 5%;
+  padding-left: 5%;
+  margin-right: 5%;
+  border-radius: 5%;
+  border-left: 7px solid tomato;
+}
+
+#panku {
+  border-radius: 0%;
+  text-align: center;
+  border-left: 0px;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(22, 17, 29);
+  padding: 5% 20%;
+  margin: 5px;
+}
+
+#alada {
+  color: rgb(81, 81, 209);
+}
+
+h4 {
+  font-size: 25px;
+}
+
+#different {
+  color: gray;
 }
